@@ -1,5 +1,7 @@
 ## Hi there 👋
 
+<a href="https://app.daily.dev/mublify96"><img src="https://api.daily.dev/devcards/v2/svQ85ybc27ECUrQodk5F5.png?type=default&r=6di" width="356" alt="Muhammad Mubashir Quadri's Dev Card"/></a>
+
 <!--
 **mublify/mublify** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
