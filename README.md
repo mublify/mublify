@@ -8,12 +8,13 @@ Welcome to my GitHub! I'm a passionate **Data Scientist** with a Master's in Bus
 
 ## 🛠️ Tools & Technologies
 
-- **Languages**: Python, SQL, Microsoft Excel, Microsoft Power BI
+- **Languages**: Python, SQL
+- **Tools**: Microsoft Excel, Microsoft Power BI
 - **Data Analysis & Visualization**: Pandas, Numpy, Matplotlib, Seaborn, Plotly
 - **Machine Learning**: Scikit-Learn, TensorFlow, Keras, Hugging Face
 - **Web Development**: FastAPI, Gradio, Docker
-- **Database**: MySQL, PostgreSQL
-- **Version Control**: Git, GitHub
+- **Database**: MySQL
+- **Version Control**: GitHub
 
 ---
 
